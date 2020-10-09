@@ -1,0 +1,12 @@
+D:\UAS-TIB\UAS-TIB\UAS\bin\Debug\UAS.exe.config
+D:\UAS-TIB\UAS-TIB\UAS\bin\Debug\UAS.exe
+D:\UAS-TIB\UAS-TIB\UAS\bin\Debug\UAS.pdb
+D:\UAS-TIB\UAS-TIB\UAS\obj\Debug\UAS.csprojAssemblyReference.cache
+D:\UAS-TIB\UAS-TIB\UAS\obj\Debug\UAS.Form1.resources
+D:\UAS-TIB\UAS-TIB\UAS\obj\Debug\UAS.Pelanggan.resources
+D:\UAS-TIB\UAS-TIB\UAS\obj\Debug\UAS.Properties.Resources.resources
+D:\UAS-TIB\UAS-TIB\UAS\obj\Debug\UAS.csproj.GenerateResource.cache
+D:\UAS-TIB\UAS-TIB\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+D:\UAS-TIB\UAS-TIB\UAS\obj\Debug\UAS.exe
+D:\UAS-TIB\UAS-TIB\UAS\obj\Debug\UAS.pdb
+D:\UAS-TIB\UAS-TIB\UAS\obj\Debug\UAS.Input_Diskon_Merek_Untuk_Pelanggan.resources
